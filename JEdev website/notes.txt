@@ -1,0 +1,32 @@
+Port folio website
+- minimalist design
+-colors :
+    #effffb  - blueish color
+    #50d890 - darker light green
+
+- Create different sections in html
+    X Navigation
+    logo
+    about myself
+    contact
+    portfolio (Or examples of work)
+
+- Css
+    ! Make everything responive
+    Nice page flow
+        - maybe try some animations
+
+- contact
+    Add email contact
+    create linkdin account
+    make facebook page for buisness
+        - Maybe instagram?
+    Add github
+
+- Portfolio
+    Github projects (IF I HAD ANY!)
+    add portfolio projects when dont.
+
+
+
+    
