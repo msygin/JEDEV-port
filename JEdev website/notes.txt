@@ -1,13 +1,13 @@
 Port folio website
 - minimalist design
 -colors :
-    #effffb  - blueish color
-    #50d890 - darker light green
+    #4f98ca;  - blueish color
+    #50d890;- darker light green
 
 - Create different sections in html
     X Navigation
-    logo
-    about myself
+    |- logo
+    - about myself
     contact
     portfolio (Or examples of work)
 
@@ -15,6 +15,25 @@ Port folio website
     ! Make everything responive
     Nice page flow
         - maybe try some animations
+
+- Navigation
+    Maybe make some changes to the nav bar when the page moves. 
+    !comeback and check after finish the rest of the site and see what you 
+    want to do here.
+    create external facebook, linkdin, and github links and perhaps include them on 
+    the side of the screen in both mobile and desktop.
+
+    !Try to make the navigation bar float over the page instead of pushing the other
+    elements!
+
+
+- About myself
+
+    Add image, make sure it is appropriate size
+    Make sure text and image is responive
+    Make sure section is not too long and hits key points!
+    !Make sure to take an actual picture of yourself that you can use for the site.
+    
 
 - contact
     Add email contact
@@ -26,6 +45,12 @@ Port folio website
 - Portfolio
     Github projects (IF I HAD ANY!)
     add portfolio projects when dont.
+
+- images used from unsplash credits to mention
+    - Shahadat Rahman
+        @hishahadat - used for intro picture.
+
+
 
 
 
